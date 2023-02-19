@@ -9,6 +9,12 @@ Shoutout to [@aslilac](https://github.com/aslilac) and
 My part of the job was implementing the original colors, adding some missing
 ones and designing the rest of the editor :)
 
+![Screenshot showing the Gleam Theme](example.png)
+
+*This screenshot also uses [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) and [Material Product Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons).*
+
+<br>
+
 ## Installing
 
 Download the `.vsix` file (found in Releases) and use
