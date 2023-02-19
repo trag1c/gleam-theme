@@ -8,11 +8,10 @@ Shoutout to [@aslilac](https://github.com/aslilac) and
 
 ## Installing
 
-Copy the `.vsix` file (found in Releases) into the `<user home>/.vscode/extensions` folder and restart
-VSCode.
+Download the `.vsix` file (found in Releases) and use
+[`Extensions: Install from VSIX...`](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix).
 
 *or*
 
-Use one of the following commands:
-- [`Extensions: Install from VSIX...`](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix)
-- [`Developer: Install Extension from Location...`](https://code.visualstudio.com/updates/v1_74#_install-an-extension-located-on-disk)
+Clone this repository and use
+[`Developer: Install Extension from Location...`](https://code.visualstudio.com/updates/v1_74#_install-an-extension-located-on-disk)
