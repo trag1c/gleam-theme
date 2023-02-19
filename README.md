@@ -1,7 +1,6 @@
 # Gleam Theme
 
-A VSCode color theme based on the one found on [Gleam](https://gleam.run)'s
-website. 
+A VSCode color theme based on the one found on [Gleam's website](https://gleam.run). 
 
 Shoutout to [@aslilac](https://github.com/aslilac) and
 [@lpil](https://github.com/lpil) for the original design! ❤️
