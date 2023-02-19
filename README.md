@@ -8,7 +8,7 @@ Shoutout to [@aslilac](https://github.com/aslilac) and
 My part of the job was implementing the original colors, adding some missing
 ones and designing the rest of the editor :)
 
-![Screenshot showing the Gleam Theme](example.png)
+![Screenshot showing the Gleam Theme](https://raw.githubusercontent.com/trag1c/gleam-theme/main/example.png)
 
 *This screenshot also uses [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) and [Material Product Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons).*
 
@@ -16,7 +16,11 @@ ones and designing the rest of the editor :)
 
 ## Installing
 
-Download the `.vsix` file (found in Releases) and use
+Download the extension from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=trag1c.gleam-theme).
+
+*or*
+
+Download the `.vsix` file (found in [Releases](https://github.com/trag1c/gleam-theme/releases)) and use
 [`Extensions: Install from VSIX...`](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix).
 
 *or*
