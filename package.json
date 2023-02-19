@@ -1,0 +1,21 @@
+{
+  "name": "gleam-theme",
+  "displayName": "Gleam Theme",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gleam Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gleam-color-theme.json"
+      }
+    ]
+  }
+}
