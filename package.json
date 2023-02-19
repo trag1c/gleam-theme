@@ -2,6 +2,7 @@
   "name": "gleam-theme",
   "displayName": "Gleam Theme",
   "description": "",
+  "icon": "lucy-circle.png",
   "version": "1.0.0",
   "repository": "https://github.com/trag1c/gleam-theme",
   "engines": {
