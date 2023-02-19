@@ -8,7 +8,7 @@ Shoutout to [@aslilac](https://github.com/aslilac) and
 
 ## Installing
 
-Copy the `.vsix` into the `<user home>/.vscode/extensions` folder and restart
+Copy the `.vsix` file (found in Releases) into the `<user home>/.vscode/extensions` folder and restart
 VSCode.
 
 *or*
