@@ -4,7 +4,7 @@
   "displayName": "Gleam Theme",
   "description": "",
   "icon": "lucy-circle.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/trag1c/gleam-theme",
   "engines": {
     "vscode": "^1.75.0"
