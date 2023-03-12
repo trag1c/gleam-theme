@@ -4,6 +4,11 @@ All notable changes to the "gleam-theme" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.2] - 2023-03-12
+
+### Fixed
+- Info notification icon is now pink instead of green
+
 ## [1.0.1] - 2023-02-19
 
 ### Added

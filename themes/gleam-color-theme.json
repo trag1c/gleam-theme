@@ -486,7 +486,7 @@
 		//"notifications.border": "#272727",
 		//"notifications.foreground": "#a3a2a2",
 		//"notificationsErrorIcon.foreground": "#e21515",
-		//"notificationsInfoIcon.foreground": "#4dbf57",
+		"notificationsInfoIcon.foreground": "#f3b2ef",
 		//"notificationsWarningIcon.foreground": "#ffc501",
 		//"panel.border": "#80808059",
 		//"panel.dropBorder": "#e7e7e7",
