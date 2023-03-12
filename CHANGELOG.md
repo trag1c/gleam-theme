@@ -23,3 +23,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 [1.0.0]: https://github.com/trag1c/gleam-theme/releases/tag/1.0.0
 [1.0.1]: https://github.com/trag1c/gleam-theme/compare/1.0.0...1.0.1
+[1.0.2]: https://github.com/trag1c/gleam-theme/compare/1.0.1...1.0.2
