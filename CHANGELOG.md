@@ -9,15 +9,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 - ANSI color definitions for the integrated terminal
 
+
 ## [1.0.3] - 2023-12-01
 
 ### Fixed
 - Made inlay hints easier to read
 
+
 ## [1.0.2] - 2023-03-12
 
 ### Fixed
 - Info notification icon is now pink instead of green
+
 
 ## [1.0.1] - 2023-02-19
 
@@ -26,6 +29,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Fixed
 - Screenshot display on the Marketplace
+
 
 ## [1.0.0] - 2023-02-19
 
