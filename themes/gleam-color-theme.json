@@ -770,6 +770,12 @@
 			}
 		},
 		{
+			"scope": ["constant.other"],
+			"settings": {
+				"foreground": "#b181ec",
+			}
+		},
+		{
 			"scope": [
 				"storage.type",
 				"storage.modifier",
