@@ -891,7 +891,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#E0E0E0"
+				"foreground": "#b181ec"
 			}
 		},
 		{
@@ -1112,7 +1112,7 @@
 		{
 			"scope": "meta.attribute",
 			"settings": {
-				"foreground": "#E0E0E0"
+				"foreground": "#b181ec"
 			}
 		}
 	]
