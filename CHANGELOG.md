@@ -9,6 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 - Changed constants and `meta.attribute` color
 
+
 ## [1.1.0] - 2023-12-05
 
 ### Added
