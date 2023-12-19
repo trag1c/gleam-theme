@@ -3,7 +3,7 @@
   "publisher": "trag1c",
   "displayName": "Gleam Theme",
   "description": "",
-  "icon": "lucy-circle.png",
+  "icon": "assets/lucy-circle.png",
   "version": "1.2.0",
   "repository": "https://github.com/trag1c/gleam-theme",
   "engines": {
