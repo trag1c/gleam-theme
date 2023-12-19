@@ -1,5 +1,11 @@
 # Gleam Theme
 
+- [Installing](#installing)
+  - [helix](#helix)
+  - [iTerm](#iterm)
+  - [Visual Studio Code](#visual-studio-code)
+
+
 A helix/iTerm/VSCode color theme based on the one found on [Gleam's website](https://gleam.run). 
 
 Shoutout to [@aslilac](https://github.com/aslilac) and
