@@ -75,6 +75,7 @@ variable = "#ffffff"
 "ui.text.focus" = { fg = "#ffaff3", modifiers = ["bold"] }
 "ui.text.inactive" = "#eeeeee"
 
+"ui.virtual" = "#373737"
 "ui.virtual.ruler" = { bg = "#2e2e2e" }
 "ui.virtual.inlay-hint" = { fg = "#000000", bg = "#ffaff3" }
 
