@@ -21,7 +21,7 @@ ones and designing the rest of the editor :)
 
 Download the `gleam-theme.toml` file and put it in the `themes` folder in your config directory (most likely `~/.config/helix/themes/`).
 
-Try it through the `:theme gleam-theme` command or set it permanently in your helix config (most likely `~/.config/helix/config.toml`):
+Try it out through the `:theme gleam-theme` command or set it permanently in your helix config (most likely `~/.config/helix/config.toml`):
 ```toml
 theme = "gleam-theme"
 ```
