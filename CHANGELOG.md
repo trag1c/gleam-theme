@@ -4,6 +4,11 @@ All notable changes to the "gleam-theme" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.0] - 2023-12-19
+
+### Changed
+- Changed constants and `meta.attribute` color
+
 ## [1.1.0] - 2023-12-05
 
 ### Added
@@ -40,3 +45,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 [1.0.2]: https://github.com/trag1c/gleam-theme/compare/1.0.1...1.0.2
 [1.0.3]: https://github.com/trag1c/gleam-theme/compare/1.0.2...1.0.3
 [1.1.0]: https://github.com/trag1c/gleam-theme/compare/1.0.3...1.1.0
+[1.2.0]: https://github.com/trag1c/gleam-theme/compare/1.1.0...1.2.0
