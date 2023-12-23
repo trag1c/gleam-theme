@@ -71,6 +71,7 @@ variable = "#ffffff"
 "ui.selection.primary" = { bg = "#555555" }
 
 "ui.statusline" = { fg = "#000000", bg = "#ffaff3" }
+"ui.statusline.active" = { fg = "#ffaff3", bg = "#303030" }
 "ui.statusline.insert" = { bg = "#c8ffa7" }
 "ui.statusline.select" = { bg = "#ffd596" }
 
