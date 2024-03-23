@@ -1,0 +1,113 @@
+# Copyright (c) 2024 trag1c
+
+attribute = "#b181ec"
+
+comment = "#c4c4c4"
+
+constant = "#b181ec"
+"constant.builtin" = "#fe7ab2"
+"constant.character" = "#c8ffa7"
+"constant.numeric" = "#fdffab"
+
+constructor = "#ffaff3"
+
+function = "#9ce7ff"
+
+keyword = "#fe7ab2"
+"keyword.control" = "#ffd596"
+"keyword.control.import" = "#fe7ab2"
+"keyword.operator" = "#ffaff3"
+"keyword.storage" = "#ffd596"
+"keyword.storage.modifier" = "#fe7ab2"
+
+label = "#ffaff3"
+
+operator = "#ffaff3"
+
+punctuation = "#ffaff3"
+"punctuation.bracket" = "#ffffff"
+"punctuation.delimiter" = "#ffffff"
+
+special = "#b181ec"
+
+string = "#c8ffa7"
+
+tag = "#fe7ab2"
+
+type = "#ffaff3"
+"type.builtin" = "#ffddfa"
+
+variable = "#ffffff"
+"variable.builtin" = "#fe7ab2"
+
+
+
+# Diff
+
+"diff.plus" = "#4dbf57"
+"diff.minus" = "#e21515"
+"diff.delta" = "#f3b2ef"
+
+
+
+
+# UI
+
+"ui.background" = { bg = "#292d3e" }
+
+"ui.gutter" = "#747478"
+"ui.gutter.selected" = "#ffffff"
+
+"ui.help" = { bg = "#363b52" }
+"ui.highlight" = { bg = "#363b52" }
+
+"ui.menu" = { bg = "#393d4e" }
+"ui.menu.selected" = { fg = "#000000", bg = "#fffbe8" }
+
+"ui.popup" = { bg = "#363b52" }
+"ui.popup.info" = { bg = "#292d3e" }
+
+"ui.selection" = { bg = "#4a5270" }
+"ui.selection.primary" = { bg = "#393f57" }
+
+"ui.statusline" = { fg = "#000000", bg = "#fffbe8" }
+"ui.statusline.active" = { fg = "#fffbe8", bg = "#303030" }
+"ui.statusline.insert" = { bg = "#c8ffa7" }
+"ui.statusline.select" = { bg = "#ffd596" }
+
+"ui.text.focus" = { fg = "#fffbe8", modifiers = ["bold"] }
+"ui.text.inactive" = "#eeeeee"
+
+"ui.virtual" = "#404661"
+"ui.virtual.ruler" = { bg = "#fffbe8" }
+"ui.virtual.inlay-hint" = { fg = "#000000", bg = "#fffbe8" }
+
+"diagnostic" = { bg = "#363b52" }
+"diagnostic.warning" = { bg = "#613c00" }
+"diagnostic.info" = { bg = "#004961" }
+"diagnostic.error" = { bg = "#5c0505" }
+"diagnostic.hint" = { bg = "#2c0061" }
+
+warning = "#ffd596"
+error = "#f44747"
+info = "#9ce7ff"
+hint = "#d9baff"
+
+
+
+# Markup
+"markup.heading" = "#ffaff3"
+"markup.raw" = {bg = "#363b52"}
+"markup.quote" = "#d9baff"
+
+"markup.link.text" = "#c8ffa7"
+"markup.link.url" = { fg = "#ffffff", modifiers = ["underlined"] }
+
+"markup.bold" = { fg = "#b181ec", modifiers = ["bold"] }
+"markup.italic" = { fg = "#d9baff", modifiers = ["italic"] }
+"markup.strikethrough" = { fg = "#ff4a4a", modifiers = ["crossed_out"] }
+
+"markup.list.checked" = "#c8ffa7"
+"markup.list.unchecked" = "#ff4a4a"
+"markup.list.unnumbered" = "#ffd596"
+"markup.list.numbered" = "#ffd596"

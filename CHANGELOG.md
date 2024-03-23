@@ -4,6 +4,14 @@ All notable changes to the "gleam-theme" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2024.3.24]
+
+### Changed
+- SemVer -> CalVer
+- Revamped the theme to adhere to the new colors (the old theme is available as "Gleam Classic")
+- Renamed the theme from "Gleam Theme" to "Gleam"
+
+
 ## [1.2.0] - 2023-12-19
 
 ### Changed
@@ -47,3 +55,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 [1.0.3]: https://github.com/trag1c/gleam-theme/compare/1.0.2...1.0.3
 [1.1.0]: https://github.com/trag1c/gleam-theme/compare/1.0.3...1.1.0
 [1.2.0]: https://github.com/trag1c/gleam-theme/compare/1.1.0...1.2.0
+[2024.3.24]: https://github.com/trag1c/gleam-theme/compare/1.2.0...2024.3.24

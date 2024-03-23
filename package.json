@@ -2,9 +2,9 @@
   "name": "gleam-theme",
   "publisher": "trag1c",
   "displayName": "Gleam Theme",
-  "description": "",
-  "icon": "assets/lucy-circle.png",
-  "version": "1.2.0",
+  "description": "A VSCode color theme based on the one found on Gleam's website",
+  "icon": "assets/lucy.png",
+  "version": "2024.3.24",
   "repository": "https://github.com/trag1c/gleam-theme",
   "engines": {
     "vscode": "^1.75.0"
@@ -15,9 +15,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Gleam Theme",
+        "label": "Gleam",
         "uiTheme": "vs-dark",
         "path": "./themes/gleam-color-theme.json"
+      },
+      {
+        "label": "Gleam Classic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gleam-classic-color-theme.json"
       }
     ]
   }
