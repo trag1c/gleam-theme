@@ -4,7 +4,7 @@
   "displayName": "Gleam Theme",
   "description": "A VSCode color theme based on the one found on Gleam's website",
   "icon": "assets/lucy.png",
-  "version": "2024.3.24",
+  "version": "2024.3.26",
   "repository": "https://github.com/trag1c/gleam-theme",
   "engines": {
     "vscode": "^1.75.0"

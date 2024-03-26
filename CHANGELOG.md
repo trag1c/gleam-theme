@@ -4,6 +4,11 @@ All notable changes to the "gleam-theme" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2024.3.26]
+
+### Fixed
+- Corrected invasive inlay hint coloring ([#6](https://github.com/trag1c/gleam-theme/issues/6))
+
 ## [2024.3.24]
 
 ### Changed
@@ -56,3 +61,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 [1.1.0]: https://github.com/trag1c/gleam-theme/compare/1.0.3...1.1.0
 [1.2.0]: https://github.com/trag1c/gleam-theme/compare/1.1.0...1.2.0
 [2024.3.24]: https://github.com/trag1c/gleam-theme/compare/1.2.0...2024.3.24
+[2024.3.26]: https://github.com/trag1c/gleam-theme/compare/2024.3.24...2024.3.26
