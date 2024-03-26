@@ -7,7 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [2024.3.26]
 
 ### Fixed
-- Corrected invasive inlay hint coloring ([#6](https://github.com/trag1c/gleam-theme/issues/6))
+- (VSCode) Corrected invasive inlay hint coloring ([#6](https://github.com/trag1c/gleam-theme/issues/6))
 
 ## [2024.3.24]
 
